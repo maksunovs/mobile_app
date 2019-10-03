@@ -5,13 +5,14 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     tools:context=".MainActivity">
+
     <LinearLayout
         android:id="@+id/screenLayout"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:orientation="vertical"
-        tools:layout_editor_absoluteX="68dp"
-        tools:layout_editor_absoluteY="298dp">
+        app:layout_constraintEnd_toEndOf="parent"
+        tools:layout_editor_absoluteY="0dp">
 
         <Button
             android:id="@+id/switchGreen"
@@ -22,21 +23,36 @@
             tools:layout_editor_absoluteY="77dp" />
 
         <Button
-        android:id="@+id/switchBlue"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:text="Blue"
-        tools:layout_editor_absoluteX="161dp"
-        tools:layout_editor_absoluteY="146dp" />
+            android:id="@+id/switchBlue"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Blue"
+            tools:layout_editor_absoluteX="161dp"
+            tools:layout_editor_absoluteY="146dp" />
 
-    <Button
-        android:id="@+id/switchRed"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:text="Red"
-        tools:layout_editor_absoluteX="161dp"
-        tools:layout_editor_absoluteY="214dp" />
+        <Button
+            android:id="@+id/switchRed"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Red"
+            tools:layout_editor_absoluteX="161dp"
+            tools:layout_editor_absoluteY="214dp" />
 
-</LinearLayout>
+        <Button
+            android:id="@+id/switchToImage"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Image"
+            tools:layout_editor_absoluteX="161dp"
+            tools:layout_editor_absoluteY="214dp" />
+
+        <Button
+            android:id="@+id/designers"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Designed by" />
+
+
+    </LinearLayout>
 
 </androidx.constraintlayout.widget.ConstraintLayout>
