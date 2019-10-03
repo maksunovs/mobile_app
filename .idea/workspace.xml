@@ -2,12 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="85484a96-d205-44ca-b868-fdcc99c917bf" name="Default Changelist" comment="&quot;Add lab1 &amp; lab2&quot;">
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/mobile_app.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab1" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/lab1/.idea/codeStyles/Project.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/lab1/.idea/gradle.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/lab1/.idea/misc.xml" afterDir="false" />
@@ -378,6 +372,8 @@
       <change afterPath="$PROJECT_DIR$/lab2/gradlew" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/lab2/gradlew.bat" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/lab2/settings.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab1" beforeDir="false" afterPath="$PROJECT_DIR$/lab1" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />

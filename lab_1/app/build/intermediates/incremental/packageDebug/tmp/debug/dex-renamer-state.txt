@@ -1,0 +1,4 @@
+#Fri Sep 20 10:47:13 MSK 2019
+base.0=/home/denis/AndroidStudioProjects/lab1/app/build/intermediates/dex/debug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
