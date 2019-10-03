@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">lab2</string>
+    <string name="last_name">Фамилия</string>
+    <string name="first_name">имя</string>
+    <string name="middle_name">Отчество</string>
+    <string name="group_number">№ группы</string>
+    <string name="faculty">факультет</string>
+    <string name ="input_value">Ввод</string>
+
+</resources>
