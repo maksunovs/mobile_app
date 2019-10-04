@@ -768,6 +768,7 @@ id edit_query
 id end
 id expand_activities_button
 id expanded_menu
+id first_layout
 id forever
 id gone
 id group_divider
@@ -954,12 +955,15 @@ string abc_shareactionprovider_share_with_application
 string abc_toolbar_collapse_description
 string app_name
 string faculty
+string first
 string first_name
 string group_number
 string input_value
 string last_name
+string main
 string middle_name
 string search_menu_title
+string second
 string status_bar_notification_info_overflow
 style AlertDialog_AppCompat
 style AlertDialog_AppCompat_Light

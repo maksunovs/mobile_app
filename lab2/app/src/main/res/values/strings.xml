@@ -6,5 +6,8 @@
     <string name="group_number">№ группы</string>
     <string name="faculty">факультет</string>
     <string name ="input_value">Ввод</string>
+    <string name ="first">FIRST</string>
+    <string name ="second">SECOND</string>
+    <string name ="main">MAIN</string>
 
 </resources>

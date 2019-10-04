@@ -17,6 +17,6 @@ public class MainActivity extends AppCompatActivity {
     public void onMyClick(View view) {
         // process button click
         TextView textView = (TextView) findViewById(R.id.textView);
-        textView.setText("Hello world!");
+        textView.setText(R.string.message);
     }
 }

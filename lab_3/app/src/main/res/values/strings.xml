@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">lab_3</string>
+    <string name="green">GREEN</string>
+    <string name="blue">BLUE</string>
+    <string name="red">RED</string>
+    <string name="image">IMAGE</string>
+    <string name="designed_by">DESIGNED BY</string>
 </resources>

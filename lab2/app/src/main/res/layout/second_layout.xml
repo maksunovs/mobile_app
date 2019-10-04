@@ -84,15 +84,17 @@
                 android:layout_height="50dp"
                 android:layout_marginTop="100dp"
                 android:onClick="onMyClick1"
-                android:text="First" />
+                android:text="@string/first" />
             <Button
                 android:id="@+id/button"
                 android:layout_width="100dp"
                 android:layout_height="50dp"
                 android:layout_marginTop="100dp"
                 android:onClick="onMyClick3"
-                android:text="Main" />
+                android:text="@string/main" />
         </TableRow>
     </TableLayout>
 
 </GridLayout>
+
+

@@ -7,7 +7,7 @@
     tools:context=".MainActivity">
 
     <TableLayout
-        android:layout_width="409dp"
+        android:layout_width="500dp"
         android:layout_height="729dp"
         tools:layout_editor_absoluteX="1dp"
         tools:layout_editor_absoluteY="1dp">
@@ -140,7 +140,7 @@
                 android:layout_height="50dp"
                 android:layout_marginTop="100dp"
                 android:onClick="onMyClick1"
-                android:text="First"
+                android:text="@string/first"
                 app:layout_constraintTop_toBottomOf="@+id/textView"
                 tools:layout_editor_absoluteX="148dp" />
             <Button
@@ -149,7 +149,7 @@
                 android:layout_height="50dp"
                 android:layout_marginTop="100dp"
                 android:onClick="onMyClick2"
-                android:text="Second"
+                android:text="@string/second"
                 app:layout_constraintTop_toBottomOf="@+id/textView"
                 tools:layout_editor_absoluteX="148dp" />
 

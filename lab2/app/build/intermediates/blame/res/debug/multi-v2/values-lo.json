@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/home/denis/AndroidStudioProjects/lab2/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-lo/values-lo.xml",
+            "outputFile": "/home/denis/AndroidStudioProjects/mobile_app/lab2/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-lo/values-lo.xml",
             "map": [
                 {
                     "source": "/home/denis/.gradle/caches/transforms-2/files-2.1/817f5f994f467f8f015ac529db244e2e/core-1.1.0/res/values-lo/values-lo.xml",

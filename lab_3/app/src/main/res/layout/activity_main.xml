@@ -18,7 +18,7 @@
             android:id="@+id/switchGreen"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="Green"
+            android:text="@string/green"
             tools:layout_editor_absoluteX="161dp"
             tools:layout_editor_absoluteY="77dp" />
 
@@ -26,7 +26,7 @@
             android:id="@+id/switchBlue"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="Blue"
+            android:text="@string/blue"
             tools:layout_editor_absoluteX="161dp"
             tools:layout_editor_absoluteY="146dp" />
 
@@ -34,7 +34,7 @@
             android:id="@+id/switchRed"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="Red"
+            android:text="@string/red"
             tools:layout_editor_absoluteX="161dp"
             tools:layout_editor_absoluteY="214dp" />
 
@@ -42,7 +42,7 @@
             android:id="@+id/switchToImage"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="Image"
+            android:text="@string/image"
             tools:layout_editor_absoluteX="161dp"
             tools:layout_editor_absoluteY="214dp" />
 
@@ -50,7 +50,7 @@
             android:id="@+id/designers"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="Designed by" />
+            android:text="@string/designed_by" />
 
 
     </LinearLayout>

@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/home/denis/AndroidStudioProjects/lab1/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-pa/values-pa.xml",
+            "outputFile": "/home/denis/AndroidStudioProjects/mobile_app/lab_1/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-pa/values-pa.xml",
             "map": [
                 {
                     "source": "/home/denis/.gradle/caches/transforms-2/files-2.1/247c544e016792902ec5f1eb267b6b25/core-1.0.1/res/values-pa/values-pa.xml",
