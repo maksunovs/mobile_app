@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/layout"
+
+    android:layout_width="match_parent"
+
+    android:layout_height="match_parent"
+
+    android:orientation="vertical">
+
+    <TableLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" >
+
+            <LinearLayout
+                android:id="@+id/buttonPanel"
+
+                android:layout_width="wrap_content"
+
+                android:layout_height="wrap_content">
+
+
+                <ImageView
+                    android:id="@+id/ball"
+
+                    android:layout_width="152dp"
+
+                    android:layout_height="187dp"
+
+                    android:src="@drawable/ball" />
+
+                <ImageView
+                    android:id="@+id/smile"
+
+                    android:layout_width="208dp"
+
+                    android:layout_height="194dp"
+
+                    android:src="@drawable/img" />
+            </LinearLayout>
+        </TableRow>
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" >
+
+            <LinearLayout
+                android:id="@+id/test"
+
+                android:layout_width="wrap_content"
+
+                android:layout_height="wrap_content">
+
+
+                <Button
+                    android:id="@+id/button_all"
+
+                    android:layout_width="wrap_content"
+
+                    android:layout_height="wrap_content"
+
+                    android:onClick="startAnimation"
+
+                    android:text="@string/animate_all" />
+
+
+                <Button
+                    android:id="@+id/button_ball"
+
+                    android:layout_width="wrap_content"
+
+                    android:layout_height="wrap_content"
+
+                    android:onClick="startAnimation"
+
+                    android:text="@string/animate_ball" />
+
+
+                <Button
+                    android:id="@+id/button_smile"
+
+                    android:layout_width="wrap_content"
+
+                    android:layout_height="wrap_content"
+
+                    android:onClick="startAnimation"
+
+                    android:text="@string/animate_smile" />
+
+
+                <EditText
+                    android:id="@+id/editText"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:ems="10"
+                    android:inputType="number" />
+
+            </LinearLayout>
+        </TableRow>
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" >
+
+            <Button
+                android:id="@+id/button"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/stop"
+                android:onClick="stop"/>
+        </TableRow>
+    </TableLayout>
+
+
+
+
+</RelativeLayout>

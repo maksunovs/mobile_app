@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">lab4</string>
+    <string name="animate_ball">Ball</string>
+    <string name="animate_smile">Smile</string>
+    <string name="animate_all">All</string>
+    <string name="stop">Stop</string>
+</resources>
