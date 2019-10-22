@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">lab_6</string>
+    <string name="title">Android Read/Write File</string>
+    <string name="file_name">File Name</string>
+    <string name="file_text">File Text</string>
+    <string name="write_file">Write File</string>
+    <string name="read_file">Read File</string>
 </resources>
