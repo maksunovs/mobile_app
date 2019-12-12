@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">lab8</string>
+    <string name="first">First activity</string>
+    <string name="second">Second activity</string>
+    <string name="camera">Open camera</string>
+    <string name="off">off</string>
+    <string name="show_power">Show power</string>
+    <string name="contacts">Contacts</string>
+</resources>
